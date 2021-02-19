@@ -7,7 +7,7 @@
 // TODO: remove these
 #include "world/light.h"
 
-// global state
+// global stat
 struct State state;
 
 void init() {
